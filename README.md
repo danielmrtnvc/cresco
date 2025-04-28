@@ -62,7 +62,7 @@ Cresco aims to create an enjoyable and engaging experience where users can:
   - Allow users to share their achievements and progress photos on social media to inspire others.
   
 ---
-
+ 
 ## **Tech Stack:**
 - **Frontend**:
   - **React** for dynamic UI components.

@@ -5,10 +5,10 @@ import './index.css';
 
 import LandingPage from './pages/LandingPage.tsx';
 import SignupPage from './pages/SignupPage.tsx';
-import LoginPage from './pages/LoginPage';
-import DashboardPage from './pages/DashboardPage';
-import HabitPage from './pages/HabitPage';
-import SettingsPage from './pages/SettingsPage';
+import LoginPage from './pages/LoginPage.tsx';
+import DashboardPage from './pages/DashboardPage.tsx';
+import HabitPage from './pages/HabitPage.tsx';
+import SettingsPage from './pages/SettingsPage.tsx';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
